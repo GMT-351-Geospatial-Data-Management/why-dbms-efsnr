@@ -1,1 +1,0 @@
-hi ı am nur
