@@ -42,12 +42,17 @@ A system is said to be scalable if it can increase its workload and throughput w
 A scalable system can be changed to adapt to changing workloads without impacting its accessibility, thereby assuring continuing availability even as modifications are made.
 DBMS automatically takes care of recovery and backup. The users do not need to take back up periodically, because it is taken care of by  DBMS.
 It also restores a database after a system failure or crash to prevent its previous condition.
+
     If we should get real life correspondence of usage od databases, we can give  example like these.
+    
     On social media sites, people can create accounts and chat with each other. They can exchange music, pictures, data and have discussions.
  Just like any other website that accepts and produces data, a social media website has a database where this information is stored.
  They use highly reliable and capable database software.
+ 
     Predicting weather is very complex. The weather organizations use prediction model which includes various informations that gathered, stored and analyzed within databases.
 These databases allow the data always be accessible and easily deliverable.
+
     Any online company that sells something such as amazon, trendyol etc. uses databases which help pricing, organize products, information about products, purchasing history.
+    
     The Goverment always stores our data and uses databases at many different platforms such as e-devlet,e-nabız,Hayatevesığar etc. for various reasons such as legislation, defence,  humanitarian aims. 
 Since, these informations are so sensitive, The Goverment are often looking for a database that is designed to handle data as safely as possible.
