@@ -3,17 +3,17 @@ why-dbms-efsnr created by GitHub Classroom
 
 DATABASE SYSTEM AND SPREADSHEET SHORT INFO:
 
-    A spreadsheet is a file that contains tabular data – textual and numeric data arranged in rows and columns.
+A spreadsheet is a file that contains tabular data – textual and numeric data arranged in rows and columns.
 The most famous spreadsheet apps today are Microsoft Excel and Google Sheets.
 Spreadsheets have lots of usage from basic mathematical calculations to complex business analysis.
 Each spreadsheets have own data storage capacity. However, if more data than the capacity should be store, then we need to more advanced system whis truly is databases.
-    A database is a system that stores the data arranged in tables with rows and columns.(Sometimes rows can be refered as records and columns as fields.
+A database is a system that stores the data arranged in tables with rows and columns.(Sometimes rows can be refered as records and columns as fields.
 The software to create a database and manipulate data in it is called a database management system (DBMS).
 It is an interface that allows users to query data, manage tables, and perform other data manipulations within the database.
 
 WHY WE NEED A DBMS INSTEAD OF SPREADSHEETS:
 
-    The only similarities of between them is they both can store the data as tabular format.
+The only similarities of between them is they both can store the data as tabular format.
 They both are collection of tables. However, databases can store huge numbers compared to the spreadsheets.
 This is the main difference between them and advantage of databases.
 As it said before, spreadsheets have a limit to store data, but databases don’t have any issiue related to the data volume limitations.
