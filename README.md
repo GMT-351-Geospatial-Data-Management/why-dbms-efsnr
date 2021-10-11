@@ -32,7 +32,6 @@ At the same time, you can set up the database structure in a way that will make 
 
    The file based data management systems contained multiple files that were stored in many different locations in a system or even across multiple systems.
 Because of this, there were sometimes multiple copies of the same file which lead to data redundancy.
-
 Databases prevents redundancy and makes the best possible usage of the storage.
 For example, if  the same product gets entered twice by mistake, data redundancy takes place and it will reduce the chance of destructive anomalies appearing.
 
